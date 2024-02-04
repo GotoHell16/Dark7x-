@@ -1,0 +1,3 @@
+import os
+os.system ("clear")
+print('H E L L O D A R K')
